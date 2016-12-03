@@ -1,0 +1,3 @@
+createdb testdb //create
+psql  testdb//open db
+
